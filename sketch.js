@@ -12,7 +12,7 @@ var total = 12;
 var font;
 var foto, bgStatic;
 var txt = "HAPPY BIRTHDAY";
-var name = "NADIA PUTRI SALSABILLA";
+var name = "NADIA PUTRI";
 var sfxPop;
 
 function preload() {
